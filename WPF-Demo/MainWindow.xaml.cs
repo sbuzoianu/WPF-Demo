@@ -22,7 +22,6 @@ namespace WPF_Demo
     {
         public MainWindow()
         {
-
             InitializeComponent();
         }
     }
