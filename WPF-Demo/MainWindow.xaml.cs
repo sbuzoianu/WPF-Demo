@@ -22,6 +22,7 @@ namespace WPF_Demo
     {
         public MainWindow()
         {
+            Console.WriteLine("test");
             InitializeComponent();
         }
     }
