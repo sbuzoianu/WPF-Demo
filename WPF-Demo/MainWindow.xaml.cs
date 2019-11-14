@@ -22,7 +22,7 @@ namespace WPF_Demo
     {
         public MainWindow()
         {
-	    String FullName = "Windows";   
+	    String FullName = "MAC";   
             Console.WriteLine("test");
 
             var checkIsEnable = isEnable(true);
