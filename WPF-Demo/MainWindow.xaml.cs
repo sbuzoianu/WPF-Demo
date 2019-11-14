@@ -24,7 +24,8 @@ namespace WPF_Demo
         {
             Console.WriteLine("test");
 
-            
+            var checkIsEnable = isEnable(true);
+            Console.WriteLine("app is "+checkIsEnable.ToString();
             InitializeComponent();
 
         }
