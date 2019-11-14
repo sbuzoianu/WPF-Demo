@@ -23,8 +23,15 @@ namespace WPF_Demo
         public MainWindow()
         {
             Console.WriteLine("test");
+
+            
             InitializeComponent();
 
+        }
+
+        public bool isEnable(Boolean argument)
+        {
+            return true;
         }
     }
 }
