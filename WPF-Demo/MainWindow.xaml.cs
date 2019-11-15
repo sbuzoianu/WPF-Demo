@@ -22,7 +22,8 @@ namespace WPF_Demo
     {
         public MainWindow()
         {
-	    String FullName = "MAC";   
+	        String FullName = "MAC";
+            String EmailAdress = "andrei@cncn.ro";
             Console.WriteLine("test");
 
             var checkIsEnable = isEnable(true);
